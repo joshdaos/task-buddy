@@ -3,7 +3,7 @@ import TodoList from './components/TodoList';
 
 function App() {
   return (
-    <div className="task-buddy">
+    <div className="todo-app">
       <h1>Task Buddy</h1>
       <TodoList />
     </div>
