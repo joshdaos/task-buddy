@@ -10,5 +10,4 @@
 - Expiration warning modal (bonus)
 - User can add time and date
 - Filtering Tasks (bonus)
-
-
+- User can log in sign up (bonus)
