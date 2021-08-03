@@ -1,6 +1,8 @@
+# Task Buddy
+
 Click [Here](https://task-list-buddy.herokuapp.com/) for demo!
 
-# Todo List App in React
+## Todo List App in React
 - Task Buddy is an application to manage your daily tasks
 - With this app, a user is able to set goals, for today, tomorrow, or beyond
 - Tasks can be created 
